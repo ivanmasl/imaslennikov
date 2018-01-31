@@ -1,10 +1,11 @@
-package ru.job4j;
+﻿package ru.job4j;
 
 /**
 * Class Класс для печати строки на экране
 * Author imaslennikov
 * @since 29.01.2018
 * @version 1
+* @param args - args.
 */
 public class Calculate {
 	/**
