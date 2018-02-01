@@ -1,4 +1,4 @@
-﻿package ru.job4j;
+package ru.job4j;
 
 /**
 * Class Класс для печати строки на экране
